@@ -4,7 +4,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js (v12 or higher)
+- Node.js
 - An OpenAI API key
 
 ## Installation
